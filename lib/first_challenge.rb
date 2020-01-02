@@ -1,4 +1,4 @@
-def first_challenge /n {
+def first_challenge ; {
   :montague => {}
 
   :capulet => {}
