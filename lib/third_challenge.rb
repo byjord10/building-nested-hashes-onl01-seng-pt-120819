@@ -10,7 +10,7 @@ def third_challenge
       :matriarch => {
         :name => "",
         :age => "",
-        :status =>
+        :status => ""
         #your key/value pairs here
         },
       :hero => {
