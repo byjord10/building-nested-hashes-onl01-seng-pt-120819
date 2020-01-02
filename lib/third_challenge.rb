@@ -3,14 +3,14 @@ def third_challenge
    :montague => {
       :patriarch => {
         :name => "",
-        :age => "",
+        :age => ""
 
         #your key/value pairs here
         },
       :matriarch => {
         :name => "",
-        :age => "",
-        :status => ""
+        :age => ""
+
         #your key/value pairs here
         },
       :hero => {
@@ -22,7 +22,7 @@ def third_challenge
       :patriarch => {
         :name => "",
         :age => "",
-        
+
         #your key/value pairs here
         },
       :matriarch => {
