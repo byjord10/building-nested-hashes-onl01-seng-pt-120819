@@ -1,6 +1,6 @@
 def first_challenge ; {
-  :montague => {}
+  "montague" => {}
 
-  :capulet => {}
+  "capulet" => {}
 }
 end
