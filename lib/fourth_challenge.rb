@@ -14,9 +14,9 @@ def fourth_challenge
    }
 }
 
+fourth_challenge[:montague][:hero][:status]= "dead"
+fourth_challenge[:capulet][:herione][:status]= "dead"
+
 
 
 end
-
-fourth_challenge[:montague][:hero][:status]= "dead"
-fourth_challenge[:capulet][:herione][:status]= "dead"
